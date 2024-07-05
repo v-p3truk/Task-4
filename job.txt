@@ -1,0 +1,14 @@
+[
+  "Assistant administratif  H/F",
+  "Gestionnaire back office  H/F",
+  "Vendeur conseil  H/F",
+  "Technicien de maintenance industrielle  H/F",
+  "Electricien industriel  H/F",
+  "Animateur vacances  H/F",
+  "Assistant transport  H/F",
+  "Technicien mécanique atelier  H/F",
+  "Couvreur  H/F",
+  "Préparateur de commande  H/F",
+  "Electricien bâtiment travaux publics  H/F",
+  "Magasinier atelier  H/F",
+]
